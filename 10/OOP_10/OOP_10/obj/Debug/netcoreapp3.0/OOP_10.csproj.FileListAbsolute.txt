@@ -1,0 +1,11 @@
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\10\OOP_10\OOP_10\obj\Debug\netcoreapp3.0\OOP_10.csprojAssemblyReference.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\10\OOP_10\OOP_10\obj\Debug\netcoreapp3.0\OOP_10.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\10\OOP_10\OOP_10\obj\Debug\netcoreapp3.0\OOP_10.AssemblyInfo.cs
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\10\OOP_10\OOP_10\bin\Debug\netcoreapp3.0\OOP_10.exe
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\10\OOP_10\OOP_10\bin\Debug\netcoreapp3.0\OOP_10.deps.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\10\OOP_10\OOP_10\bin\Debug\netcoreapp3.0\OOP_10.runtimeconfig.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\10\OOP_10\OOP_10\bin\Debug\netcoreapp3.0\OOP_10.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\10\OOP_10\OOP_10\bin\Debug\netcoreapp3.0\OOP_10.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\10\OOP_10\OOP_10\bin\Debug\netcoreapp3.0\OOP_10.pdb
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\10\OOP_10\OOP_10\obj\Debug\netcoreapp3.0\OOP_10.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\10\OOP_10\OOP_10\obj\Debug\netcoreapp3.0\OOP_10.pdb
