@@ -1,0 +1,24 @@
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.exe
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.deps.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.runtimeconfig.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.pdb
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.csprojAssemblyReference.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.AssemblyInfo.cs
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.pdb
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.exe
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.deps.json
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.runtimeconfig.json
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.dll
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\bin\Debug\netcoreapp3.0\OOP_9.pdb
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.dll
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.pdb
+C:\Users\Admin\Desktop\ооп\9\OOP_9\OOP_9\obj\Debug\netcoreapp3.0\OOP_9.genruntimeconfig.cache
