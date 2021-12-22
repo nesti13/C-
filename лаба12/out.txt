@@ -1,0 +1,12 @@
+лаба12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Класс (Сериал) включает в себя публичный конструктор
+get_Director 
+set_Director 
+get_Name 
+GetId 
+Clone 
+Director 
+Name 
+ICloneable 
+GetId 
