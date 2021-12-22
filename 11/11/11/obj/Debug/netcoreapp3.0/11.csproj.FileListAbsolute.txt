@@ -1,0 +1,24 @@
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\11\11\11\bin\Debug\netcoreapp3.0\11.exe
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\11\11\11\bin\Debug\netcoreapp3.0\11.deps.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\11\11\11\bin\Debug\netcoreapp3.0\11.runtimeconfig.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\11\11\11\bin\Debug\netcoreapp3.0\11.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\11\11\11\bin\Debug\netcoreapp3.0\11.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\11\11\11\bin\Debug\netcoreapp3.0\11.pdb
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\11\11\11\obj\Debug\netcoreapp3.0\11.csprojAssemblyReference.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\11\11\11\obj\Debug\netcoreapp3.0\11.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\11\11\11\obj\Debug\netcoreapp3.0\11.AssemblyInfo.cs
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\11\11\11\obj\Debug\netcoreapp3.0\11.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\11\11\11\obj\Debug\netcoreapp3.0\11.pdb
+C:\Users\Admin\Desktop\ооп\11\11\11\bin\Debug\netcoreapp3.0\11.exe
+C:\Users\Admin\Desktop\ооп\11\11\11\bin\Debug\netcoreapp3.0\11.deps.json
+C:\Users\Admin\Desktop\ооп\11\11\11\bin\Debug\netcoreapp3.0\11.runtimeconfig.json
+C:\Users\Admin\Desktop\ооп\11\11\11\bin\Debug\netcoreapp3.0\11.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ооп\11\11\11\bin\Debug\netcoreapp3.0\11.dll
+C:\Users\Admin\Desktop\ооп\11\11\11\bin\Debug\netcoreapp3.0\11.pdb
+C:\Users\Admin\Desktop\ооп\11\11\11\obj\Debug\netcoreapp3.0\11.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ооп\11\11\11\obj\Debug\netcoreapp3.0\11.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ооп\11\11\11\obj\Debug\netcoreapp3.0\11.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ооп\11\11\11\obj\Debug\netcoreapp3.0\11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ооп\11\11\11\obj\Debug\netcoreapp3.0\11.dll
+C:\Users\Admin\Desktop\ооп\11\11\11\obj\Debug\netcoreapp3.0\11.pdb
+C:\Users\Admin\Desktop\ооп\11\11\11\obj\Debug\netcoreapp3.0\11.genruntimeconfig.cache
