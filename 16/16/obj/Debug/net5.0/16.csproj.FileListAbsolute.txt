@@ -1,0 +1,32 @@
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\bin\Debug\net5.0\16.exe
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\bin\Debug\net5.0\16.deps.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\bin\Debug\net5.0\16.runtimeconfig.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\bin\Debug\net5.0\16.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\bin\Debug\net5.0\16.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\bin\Debug\net5.0\ref\16.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\bin\Debug\net5.0\16.pdb
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\obj\Debug\net5.0\16.csproj.AssemblyReference.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\obj\Debug\net5.0\16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\obj\Debug\net5.0\16.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\obj\Debug\net5.0\16.AssemblyInfo.cs
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\obj\Debug\net5.0\16.csproj.CoreCompileInputs.cache
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\obj\Debug\net5.0\16.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\obj\Debug\net5.0\ref\16.dll
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\obj\Debug\net5.0\16.pdb
+C:\Users\thesi\Desktop\БГТУ\2 курс\3 семестр\c#\лабораторные\16\16\16\obj\Debug\net5.0\16.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ооп\16\16\16\bin\Debug\net5.0\16.exe
+C:\Users\Admin\Desktop\ооп\16\16\16\bin\Debug\net5.0\16.deps.json
+C:\Users\Admin\Desktop\ооп\16\16\16\bin\Debug\net5.0\16.runtimeconfig.json
+C:\Users\Admin\Desktop\ооп\16\16\16\bin\Debug\net5.0\16.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ооп\16\16\16\bin\Debug\net5.0\16.dll
+C:\Users\Admin\Desktop\ооп\16\16\16\bin\Debug\net5.0\ref\16.dll
+C:\Users\Admin\Desktop\ооп\16\16\16\bin\Debug\net5.0\16.pdb
+C:\Users\Admin\Desktop\ооп\16\16\16\obj\Debug\net5.0\16.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ооп\16\16\16\obj\Debug\net5.0\16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ооп\16\16\16\obj\Debug\net5.0\16.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ооп\16\16\16\obj\Debug\net5.0\16.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ооп\16\16\16\obj\Debug\net5.0\16.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ооп\16\16\16\obj\Debug\net5.0\16.dll
+C:\Users\Admin\Desktop\ооп\16\16\16\obj\Debug\net5.0\ref\16.dll
+C:\Users\Admin\Desktop\ооп\16\16\16\obj\Debug\net5.0\16.pdb
+C:\Users\Admin\Desktop\ооп\16\16\16\obj\Debug\net5.0\16.genruntimeconfig.cache
