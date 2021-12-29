@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfGym xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gym>
+    <Name>Body Shop</Name>
+    <Master> Уильям Глен Гарольд Херрингтон</Master>
+  </Gym>
+  <Gym>
+    <Name>Парни со свалки</Name>
+    <Master> Денни Ли</Master>
+  </Gym>
+  <Gym>
+    <Name>Deep Dark Fantasies</Name>
+    <Master> Ван Даркхолм</Master>
+  </Gym>
+</ArrayOfGym>
